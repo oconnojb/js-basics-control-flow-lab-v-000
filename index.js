@@ -12,3 +12,8 @@ function scuberGreetingForFeet(x) {
     return "No can do."
   }
 }
+
+function ternaryCheckCity(city) {
+  let answer = city === "NYC" ? "Ok, sounds good." : "No go."
+  return answer
+}
