@@ -8,7 +8,7 @@ function scuberGreetingForFeet(x) {
     return "I will gladly take your thirty bucks."
   }
 
-  if (x > 2500) {
+  if (x >= 2500) {
     "No can do."
   }
 }
